@@ -1,1 +1,1 @@
-This project includes **strong** _the main_ github concepts.
+This project includes ** the main** github concepts.
